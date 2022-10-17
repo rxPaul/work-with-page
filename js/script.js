@@ -34,8 +34,7 @@ ads.forEach(img => {
 
 const poster = document.querySelector('.promo_bg');
 
-// poster.style.background = 'url("img/bg.jpg")';
-// console.log(poster.innerHTML);
+poster.style.background = 'url("img/bg.jpg")';
 
 const genre = document.querySelector('.promo__genre');
 
